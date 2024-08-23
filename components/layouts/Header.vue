@@ -7,11 +7,4 @@ const showMenu = ref(false)
 </script>
 
 <template>
-  <section class="pb-6">
-    <a
-                class=""
-                href="/dashboard"
-                title="Dashboard"
-              >.</a>
-  </section>
 </template>
